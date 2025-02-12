@@ -1,7 +1,5 @@
 ---
-title: A minimal layout page
-layout: minimal
-parent: Layout
+
 ---
 
 # A minimal layout page

@@ -1,6 +1,5 @@
 ---
-title: Search
-nav_order: 7
+
 ---
 
 # Search

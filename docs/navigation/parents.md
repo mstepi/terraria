@@ -1,7 +1,5 @@
 ---
-title: Breadcrumbs
-parent: Navigation 
-nav_order: 3
+
 ---
 
 # Breadcrumbs

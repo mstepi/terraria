@@ -1,6 +1,5 @@
 ---
-title: Color
-parent: Utilities
+
 ---
 
 # Color Utilities

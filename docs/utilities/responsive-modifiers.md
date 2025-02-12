@@ -1,6 +1,5 @@
 ---
-title: Responsive Modifiers
-parent: Utilities
+
 ---
 
 # Responsive modifiers

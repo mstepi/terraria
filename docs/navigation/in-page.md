@@ -1,7 +1,5 @@
 ---
-title: In-Page Navigation
-parent: Navigation
-nav_order: 5
+
 ---
 
 # In-Page Navigation

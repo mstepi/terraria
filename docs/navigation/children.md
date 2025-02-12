@@ -1,7 +1,5 @@
 ---
-title: Child Pages
-parent: Navigation
-nav_order: 4
+
 ---
 
 # Child Pages

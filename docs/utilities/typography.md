@@ -1,6 +1,5 @@
 ---
-title: Typography
-parent: Utilities
+
 ---
 
 # Typography Utilities

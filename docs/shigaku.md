@@ -1,6 +1,6 @@
 ---
 title: 詩学装備
-nav_order: 1
+nav_order: 2
 ---
 
 # 詩学装備交換場所

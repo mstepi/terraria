@@ -1,6 +1,5 @@
 ---
-title: Layout
-parent: Utilities
+
 ---
 
 # Layout Utilities

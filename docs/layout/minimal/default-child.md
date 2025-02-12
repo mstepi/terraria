@@ -1,8 +1,5 @@
 ---
-title: Default layout child page
-layout: default
-parent: A minimal layout page
-grand_parent: Layout
+
 ---
 
 # Default layout child page
