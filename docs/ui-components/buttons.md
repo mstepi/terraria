@@ -1,10 +1,10 @@
 ---
-title: Buttons
-parent: UI Components
-nav_order: 2
+title: クロの空想帳
+parent: ウィークリー
+nav_order: 3
 ---
 
-# Buttons
+# クロの空想帳
 {: .no_toc }
 
 ## Table of contents
@@ -15,82 +15,22 @@ nav_order: 2
 
 ---
 
-## Basic button styles
+## 開放について
+レベル60から開放が可能です
 
-### Links that look like buttons
+### 開放場所
 
-<div class="code-example" markdown="1">
-[Link button](https://just-the-docs.com){: .btn }
 
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
-[Link button](https://just-the-docs.com){: .btn .btn-blue }
-[Link button](https://just-the-docs.com){: .btn .btn-green }
+| クエスト名 | とある少女の空想帳                      |
+| 場所 | イディルシャイア |
+| 座標 | X:7.0 Y:5.9 |
+| NPC | 優しそうな冒険者                  |
 
-[Link button](https://just-the-docs.com){: .btn .btn-outline }
-</div>
-```markdown
-[Link button](https://just-the-docs.com){: .btn }
+## 受注について
 
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
-[Link button](https://just-the-docs.com){: .btn .btn-blue }
-[Link button](https://just-the-docs.com){: .btn .btn-green }
+### 受注場所
 
-[Link button](https://just-the-docs.com){: .btn .btn-outline }
-```
+| 場所 | イディルシャイア |
+| 座標 | X:5.7 Y:6.0 |
+| NPC | クロ・アリアポー                  |
 
-### Button element
-
-GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
-
-<div class="code-example">
-<button type="button" name="button" class="btn">Button element</button>
-</div>
-```html
-<button type="button" name="button" class="btn">Button element</button>
-```
-
----
-
-## Using utilities with buttons
-
-### Button size
-
-Wrap the button in a container that uses the [font-size utility classes]({% link docs/utilities/typography.md %}) to scale buttons:
-
-<div class="code-example" markdown="1">
-<span class="fs-6">
-[Big ass button](https://just-the-docs.com){: .btn }
-</span>
-
-<span class="fs-3">
-[Tiny ass button](https://just-the-docs.com){: .btn }
-</span>
-</div>
-```markdown
-<span class="fs-8">
-[Link button](https://just-the-docs.com){: .btn }
-</span>
-
-<span class="fs-3">
-[Tiny ass button](https://just-the-docs.com){: .btn }
-</span>
-```
-
-### Spacing between buttons
-
-Use the [margin utility classes]({% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
-
-<div class="code-example" markdown="1">
-[Button with space](https://just-the-docs.com){: .btn .btn-purple .mr-2 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-
-[Button with more space](https://just-the-docs.com){: .btn .btn-green .mr-4 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-</div>
-```markdown
-[Button with space](https://just-the-docs.com){: .btn .btn-purple .mr-2 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-
-[Button with more space](https://just-the-docs.com){: .btn .btn-green .mr-4 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-```
